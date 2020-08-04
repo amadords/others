@@ -1,5 +1,6 @@
 Original: https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet
 
+Português: https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open
 
 Skip to content
 Pull requests
