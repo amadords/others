@@ -375,8 +375,11 @@ Clone this wiki locally
 
 ---
 
+
 https://csrgxtu.github.io/2015/03/20/Writing-Mathematic-Fomulars-in-Markdown/
 
 https://gist.github.com/LKS90/252ac41bd4a173be35b0
 
 Fórmulas com Latex: https://pt.wikipedia.org/wiki/Ajuda:Guia_de_edi%C3%A7%C3%A3o/F%C3%B3rmulas_TeX
+
+No modo matemático, existem vários comandos que permitem inclusão de espaços em branco na fórmula. Além da barra invertida isolada (por exemplo, $x \ y$ produz um espaço entre o x e o y), podem ser usados \, (espaço muito pequeno), \: ou \; ou \quad e \qquad (espaço muito grande) para espaços em branco. Pode-se repetir esses comandos a vontade até obter o espaçamento desejado. Além disso, \! produz um espaço em branco “negativo”, ou seja, uma redução do espaço em branco, um pequeno retrocesso.
