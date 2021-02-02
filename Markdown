@@ -4,6 +4,12 @@ Português: https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-d
 
 Simples: https://gist.github.com/cogumm/878e59be85bf863b997a3d47cf07c162
 
+https://guides.github.com/features/mastering-markdown/
+
+https://shields.io/
+
+
+
 Skip to content
 Pull requests
 Issues
